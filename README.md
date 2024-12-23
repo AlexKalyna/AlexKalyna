@@ -1,5 +1,6 @@
 ## Hi there 👋 🇺🇦
 
+My name is Oleksandr and I'm a dedicated and results-focused Senior QA Engineer with a proven track record of ensuring exceptional software quality and reliability. 
 <!--
 **AlexKalyna/AlexKalyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
