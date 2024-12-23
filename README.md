@@ -6,4 +6,4 @@
 📫 Let's connect
 
 
-[Linkedin](https://www.linkedin.com/in/oleksandr-kalyna/)
+[LinkedIn](https://www.linkedin.com/in/oleksandr-kalyna/)
