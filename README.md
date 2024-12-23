@@ -7,8 +7,8 @@
 🚀 **Process Architect**: I specialize in building testing processes and comprehensive documentation from scratch, ensuring efficiency and clarity across the development lifecycle.  
 
 🤖 **Automation Expertise**:  
-- **API Automation**: Proficient in creating robust API automation frameworks using tools like **Postman**, **Newman**, and **Playwright** combined with **TypeScript** and **Axios**. My expertise enables me to design efficient workflows for validating API functionality, performance, and reliability.  
-- **UI Automation**: Skilled in developing UI automation solutions using **Playwright** with **TypeScript**, ensuring comprehensive test coverage and seamless user interface validation.  
+- **API Automation**: Proficient in creating robust API automation frameworks using tools like **Postman**, **Newman**, and **Playwright** combined with **TypeScript** and **Axios**. 
+- **UI Automation**: Experienced in developing UI automation solutions using Playwright with TypeScript, contributing to enhanced test coverage and reliable user interface validation.
 - I integrate automation into CI/CD pipelines, ensuring fast, reliable, and scalable testing to support rapid development cycles.  
 
 🔍 **Holistic QA Skills**: With a solid foundation in **Performance** and **Security testing**, I bring a well-rounded perspective to quality assurance, addressing potential risks before they escalate.  
