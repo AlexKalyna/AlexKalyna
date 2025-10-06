@@ -1,6 +1,6 @@
 # About Me  
 
-👋 Hi there! I’m a **driven and results-oriented Senior QA Engineer** with a passion for delivering exceptional software quality and reliability. My approach combines precision, innovation, and customer focus to ensure robust, user-centric solutions.  
+👋 Hi there! I’m a **driven and results-oriented QA Engineer** with a passion for delivering exceptional software quality and reliability. My approach combines precision, innovation, and customer focus to ensure robust, user-centric solutions.  
 
 ### What Sets Me Apart  
 
